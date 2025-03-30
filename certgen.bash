@@ -1,4 +1,3 @@
-#!/bin/bash
 
 echo "creating server.key"
 openssl genrsa -out server.key 2048
